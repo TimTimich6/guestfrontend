@@ -1,0 +1,21 @@
+.title {
+  font-size: 2rem;
+  color: white;
+}
+.button {
+  padding: 0.5rem 1rem;
+  font-size: 1.3rem;
+  margin: 0.5rem;
+  background-color: dodgerblue;
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.total {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
